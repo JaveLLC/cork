@@ -1,6 +1,27 @@
 # Cork
+```
+      ___           ___           ___           ___     
+     /\  \         /\  \         /\  \         /\__\    
+    /::\  \       /::\  \       /::\  \       /:/  /    
+   /:/\:\  \     /:/\:\  \     /:/\:\  \     /:/__/     
+  /:/  \:\  \   /:/  \:\  \   /::\~\:\  \   /::\__\____ 
+ /:/__/ \:\__\ /:/__/ \:\__\ /:/\:\ \:\__\ /:/\:::::\__\
+ \:\  \  \/__/ \:\  \ /:/  / \/_|::\/:/  / \/_|:|~~|~   
+  \:\  \        \:\  /:/  /     |:|::/  /     |:|  |    
+   \:\  \        \:\/:/  /      |:|\/__/      |:|  |    
+    \:\__\        \::/  /       |:|  |        |:|  |    
+     \/__/         \/__/         \|__|         \|__|    
+```                  
+                     
 
 Cork is a compression algorithm based on our body processes.
+
+
+## History 
+
+In olden times, it was not uncommon to place a literal cork in the sphincter of a deceased person in order that they can survive transport or display.
+
+we’ve translated this to code.
 
 ## Usage
 
